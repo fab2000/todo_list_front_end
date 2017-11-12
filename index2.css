@@ -1,6 +1,9 @@
     body {background-image: url(http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg);
          background-color: lightblue;
     }
+    .completed-todo{
+  text-decoration: line-through;
+}
 .pomodoro-estimate {
   font-weight: bold;
   color: #F44336 ;
